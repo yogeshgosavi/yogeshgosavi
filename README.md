@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Yogesh_gosavi_?style=social)](https://twitter.com/Yogesh_gosavi_)
+
 <!--
 **yogeshgosavi/yogeshgosavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
