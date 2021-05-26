@@ -1,13 +1,13 @@
 ### Hi there 👋
 ## Don't be a Stalker, Follow Me!
 ### Check out my Apps :
-[<img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="30%">](https://play.google.com/store/apps/dev?id=6147118909133311554)
+[<img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="40%">](https://play.google.com/store/apps/dev?id=6147118909133311554)
 
-- 😎 I’m currently working on [Joy Walls](https://play.google.com/store/apps/details?id=app.yog.joywalls)
-- 🌱 I’m currently learning Flutter & Dart
-- 💬 I’m looking to collaborate on Apps & Various Projects 
+- 😎 Working on [Joy Walls](https://play.google.com/store/apps/details?id=app.yog.joywalls)
+- 🌱 Learning Flutter & Dart
+- 💬 Looking to collaborate on Apps & Various Projects 
 - 💬 Ask me anything about Android Apps
-- 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/yogesh_gosavi_?label=Send%20me%20a%20DM&style=social)](https://twitter.com/Yogesh_gosavi_)
+- 📫 How to Reach me : [![Twitter Follow](https://img.shields.io/twitter/follow/yogesh_gosavi_?label=Send%20me%20a%20DM&style=social)](https://twitter.com/Yogesh_gosavi_)
 - ⚡ Fun fact: I have Aphantasia  🤪
 
 ### Follow me For some Cool Stuff!
