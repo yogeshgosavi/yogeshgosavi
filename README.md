@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I have Aphantasia  🤪
 
 Check out my Apps : 
-[![Foo](https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg)](https://play.google.com/store/apps/dev?id=6147118909133311554)
+[<img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="50%">](https://play.google.com/store/apps/dev?id=6147118909133311554)
 
 
 
