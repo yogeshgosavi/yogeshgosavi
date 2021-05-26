@@ -1,18 +1,35 @@
 ### Hi there 👋
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/Yogesh_gosavi_?style=social)](https://twitter.com/Yogesh_gosavi_)
+![GitHub followers](https://img.shields.io/github/followers/yogeshgosavi?label=Follow%20me&style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/yogesh_gosavi?label=yogesh_gosavi&style=social)
+- 🔭 I’m currently working on [Joy Walls](https://play.google.com/store/apps/details?id=app.yog.joywalls)
+- 🌱 I’m currently learning Flutter & Dart
+- 👯 I’m looking to collaborate on Apps & Various Projects 
+- 🤔 I’m looking for help with nothin 
+- 💬 Ask me anything about Android Apps
+- 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/yogesh_gosavi_?label=Send%20me%20a%20DM&style=social) 
+- - 😄 Pronouns: he/him
+- ⚡ Fun fact: I have Aphantasia  🤪
+
+Check out my Apps : 
+[![Foo](https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg)](https://play.google.com/store/apps/dev?id=6147118909133311554)
+
+
 
 <!--
 **yogeshgosavi/yogeshgosavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgosavi&layout=compact)](https://github.com/yogeshgosavi/github-readme-stats)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Joy Walls](https://play.google.com/store/apps/details?id=app.yog.joywalls)
+- 🌱 I’m currently learning Flutter & Dart
+- 👯 I’m looking to collaborate on Apps & Various Projects 
+- 🤔 I’m looking for help with nothin 
+- 💬 Ask me anything about Android Apps
+- 📫 How to reach me: [![Send me a DM on Twitter](https://img.shields.io/twitter/follow/Yogesh_gosavi_?style=social)](https://twitter.com/Yogesh_gosavi_)
+
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have Aphantasia  🤪
 -->
