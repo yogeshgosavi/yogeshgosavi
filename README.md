@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Flutter & Dart
 - 💬 I’m looking to collaborate on Apps & Various Projects 
 - 💬 Ask me anything about Android Apps
-- 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/yogesh_gosavi_?label=Send%20me%20a%20DM&style=social) 
+- 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/yogesh_gosavi_?label=Send%20me%20a%20DM&style=social)](https://twitter.com/Yogesh_gosavi_)
 - ⚡ Fun fact: I have Aphantasia  🤪
 
 ### Follow me For some Cool Stuff!
