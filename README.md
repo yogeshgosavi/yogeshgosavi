@@ -1,8 +1,9 @@
 ### Hi there 👋
 ## Don't be a Stalker, Follow Me!
 ### Check out my Apps :
-[<img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="40%">](https://play.google.com/store/apps/dev?id=6147118909133311554)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" width="40%">](https://apps.apple.com/us/app/zeel-walls/id6479215344)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" width="20%">](https://apps.apple.com/us/app/zeel-walls/id6479215344)  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="20%">](https://play.google.com/store/apps/dev?id=6147118909133311554)
+
 
 - 😎 Working on [Joy Walls](https://play.google.com/store/apps/details?id=app.yog.joywalls)
 - 🌱 Learning Flutter & Dart
